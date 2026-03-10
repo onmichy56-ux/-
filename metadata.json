@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Remix: PolicyInsight Pro - 政策业务与营商环境智能分析平台",
+  "description": "面向政府部门咨询人员的高端工具，提供政策文件深度阅读、互联网实时信息检索与专业分析报告生成功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
